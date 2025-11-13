@@ -1,0 +1,21 @@
+{
+  "name": "docker-node-redis-demo",
+  "version": "1.0.0",
+  "description": "Node.js + Express application with Redis visit counter",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "redis",
+    "docker"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "redis": "^4.6.5"
+  }
+}

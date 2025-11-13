@@ -1,0 +1,14 @@
+{
+  "name": "docker-node-redis-demo",
+  "version": "1.0.0",
+  "description": "Demo de Node.js con Redis y Docker",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "redis": "^4.6.12"
+  }
+}

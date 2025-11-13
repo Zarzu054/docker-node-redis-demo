@@ -6,8 +6,10 @@ Todo el entorno se ejecuta mediante **Docker Compose**, simulando un sistema mul
 ---
 
 ## 🧱 Estructura
+```
 /docker-node-redis-demo
 ├── index.js
 ├── package.json
 ├── Dockerfile
 └── docker-compose.yml
+```
